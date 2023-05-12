@@ -3,3 +3,4 @@
 * comando git push
 * mais Alterações
 * Comando git pull
+* comando git fetch
